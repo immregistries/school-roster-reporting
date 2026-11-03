@@ -12,5 +12,10 @@
     "message-profile": "Message Profile",
     "processing-and-conformance": "Conformance",
     "working-decisions": "Decisions"
+  },
+  "comments": {
+    "mode": "interophub",
+    "hub": "https://informatics.immregistries.org/hub",
+    "document": "school-roster-reporting"
   }
 }
