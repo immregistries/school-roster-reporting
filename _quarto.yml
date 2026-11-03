@@ -1,0 +1,14 @@
+project:
+  type: default
+  output-dir: output
+  render:
+    - SchoolRosterReporting.qmd
+
+format:
+  docx:
+    toc: true
+    reference-doc: process/templates/word/aira-reference-document.docx
+  html:
+    toc: true
+    embed-resources: true
+

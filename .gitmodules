@@ -1,0 +1,3 @@
+[submodule "process"]
+	path = process
+	url = https://github.com/immregistries/content-publishing-templates.git

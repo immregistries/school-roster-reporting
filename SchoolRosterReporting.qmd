@@ -1,0 +1,18 @@
+---
+title: "HL7 v2.5.1 School Roster Reporting"
+subtitle: "A Topic Reference for community discussion"
+date: last-modified
+date-format: "MMMM YYYY"
+---
+
+{{< include content/00-status-and-scope.md >}}
+
+{{< include content/01-use-cases-and-exchange.md >}}
+
+{{< include content/02-information-model.md >}}
+
+{{< include content/03-message-profile.md >}}
+
+{{< include content/04-processing-and-conformance.md >}}
+
+{{< include content/90-working-decisions.md >}}

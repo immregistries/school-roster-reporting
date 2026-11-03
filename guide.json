@@ -1,0 +1,16 @@
+{
+  "id": "school-roster-reporting",
+  "documentType": "Topic Reference",
+  "status": "Draft",
+  "interophubTopic": 77,
+  "repository": "https://github.com/immregistries/school-roster-reporting",
+  "license": "Content licensed CC BY 4.0",
+  "navLabels": {
+    "status-and-scope": "Scope",
+    "use-cases-and-exchange": "Use Cases",
+    "information-model": "Information Model",
+    "message-profile": "Message Profile",
+    "processing-and-conformance": "Conformance",
+    "working-decisions": "Decisions"
+  }
+}
