@@ -4,6 +4,11 @@ project:
   render:
     - SchoolRosterReporting.qmd
 
+# Images in content/ are linked relative to their Markdown file.
+resource-path:
+  - .
+  - content
+
 format:
   docx:
     toc: true
