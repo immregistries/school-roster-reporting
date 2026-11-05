@@ -8,3 +8,4 @@ product go back into `content/` first.
 | Product | Purpose |
 |---|---|
 | [web-guide/](web-guide/brief.yml) | The published Topic Reference on GitHub Pages, with on-page comments |
+| [infographic/](infographic/brief.yml) | The primary infographic, the topic at a glance, built from [content/infographic.yml](../content/infographic.yml) with the core document |
